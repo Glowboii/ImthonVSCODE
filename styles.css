@@ -1,0 +1,95 @@
+h1{
+    color: darkblue;
+    background-color: rgb(111, 209, 245);
+    border-radius: 25px;
+    border: 3px solid red;
+    text-align: center;
+}
+.span1{
+    text-align: center;
+    color: black;
+    background-color: yellow;
+}
+p{
+    color: black;
+    text-align: center;
+}
+span{
+    color: brown;
+}
+.h21{
+    color: green;
+}
+.h22{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+.img1{
+    width: 990px;
+    height: 550px;
+}
+.img2{
+    width: 990px;
+    height: 550px;
+}
+.h23{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+iframe{
+    width: 1980px;
+    height: 650px;
+}
+.h24{
+    color: green;
+}
+.imput{
+    width: 1800px;
+    height: 35px;
+}
+.h25{
+    color: green;
+}
+button{
+    background-color: rgb(80, 163, 251);
+    width: 300px;
+    height: 30px;
+}
+.h26{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+table{
+    border: 3px solid white;
+    text-align: center;
+    width:750px;
+    height: 150px;
+
+}
+.th1{
+    color: white;
+    background-color: green;
+}
+.th2{
+    color: white;
+    background-color: blue;
+}
+.td1{
+    color: white;
+    background-color: red;
+}
+.td2{
+    color: white;
+    background-color: black;
+}
+.td3{
+    color: white;
+    background-color: red;
+}
+.td4{
+    color: white;
+    background-color: black;
+}
